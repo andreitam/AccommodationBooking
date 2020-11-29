@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea
+/.target
+/.webapp
+# Datasource local storage ignored files
+/../../../../../../:\Users\MateiIustinCaius\IdeaProjects\SQLBooking\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
