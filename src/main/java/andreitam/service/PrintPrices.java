@@ -34,7 +34,7 @@ public class PrintPrices {
             System.out.println("-------Room Prices Offer---------");
             while(joinAccommodationFairResultSet.next()){
                 System.out.println(
-                        "Room type: "+ RoomType.valueOf(joinAccommodationFairResultSet.getString(1))+
+                        "Room type what a room: "+ RoomType.valueOf(joinAccommodationFairResultSet.getString(1))+
                         " Bed type: "+ BedType.valueOf(joinAccommodationFairResultSet.getString(2))+
                         " Max guests: "+joinAccommodationFairResultSet.getInt(3)+
                         " Romm price in $: "+joinAccommodationFairResultSet.getDouble(4)+
